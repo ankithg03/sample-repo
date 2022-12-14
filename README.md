@@ -42,7 +42,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:ankithg03/sample-repo.git
-git push -u origin main
+git remote add remote_repo git@github.com:ankithg03/sample-repo.git
+git push -u remote_repo main
 ```
 
